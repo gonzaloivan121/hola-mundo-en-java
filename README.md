@@ -6,6 +6,8 @@ El programa "hola mundo" simplemente muestra "Hola mundo" por pantalla. Es muy s
 
 ## Compilación y ejecución del programa
 
+### Desde ventana de terminal
+
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
 ```console
@@ -18,4 +20,9 @@ Y para **ejecutarlo**:
 java HolaMundo
 ```
 
+### Con Geany
+
+Con la tecla **F5** se compila el archivo y con **F8** se ejecuta (si no hay errores).
+
+## Enlaces de interés
 
