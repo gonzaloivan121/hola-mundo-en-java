@@ -26,3 +26,8 @@ Con la tecla **F5** se compila el archivo y con **F8** se ejecuta (si no hay err
 
 ## Enlaces de interés
 
+* [Noticias actualizadas sobre Java y Oracle](http://elpais.com/tag/oracle/a)
+* [Video-tutoriales para aprendizaje inicial de Java](https://www.youtube.com/watch?v=Wap6gRuB8Xw)
+
+Disfruta de mi repositorio de GitHub. Leave a like! :star:
+
